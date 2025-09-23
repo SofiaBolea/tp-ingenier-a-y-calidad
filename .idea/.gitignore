@@ -6,3 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# Este es el archivo utilizado en la consigna 2, inciso B, para no subir cambios de configuraciones locales, ignorándolos.

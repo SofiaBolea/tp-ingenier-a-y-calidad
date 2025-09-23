@@ -2,6 +2,8 @@ package com.disenio_de_sistemas.TP_INTEGRADOR_DDS.DTOs;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
+//PRIMERA MODIFICACION - INCISO 2) A
+
 @JsonPropertyOrder({"idAula", "piso", "tipoDeAula", "capacidad", "estado"}) // Es irrelevante, sólo modifica el orden de los atributos de esta clase cuando se convierte a JSON para mostrar en la interfaz.
 public class AulaDTO {
 

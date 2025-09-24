@@ -1,7 +1,7 @@
 package com.disenio_de_sistemas.TP_INTEGRADOR_DDS.DTOs;
 
 import com.disenio_de_sistemas.TP_INTEGRADOR_DDS.models.enums.TurnoDeTrabajo;
-
+// Listas las pruebas -  INCISO 2) D
 public class BedelDTO {
 
     private int idBedel;

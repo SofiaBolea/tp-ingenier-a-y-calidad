@@ -1,5 +1,7 @@
 package com.disenio_de_sistemas.TP_INTEGRADOR_DDS.DTOs;
 
+// HOTFIX: corrección de error en versión productiva – Consigna 2) Inciso F.
+
 public class CatedraDTO {
 
     private int idCatedra;

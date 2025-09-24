@@ -1,6 +1,7 @@
 package com.disenio_de_sistemas.TP_INTEGRADOR_DDS.DTOs;
 
 // MODIFICACION A - INCISO 2) I 
+// MODIFICACION B - INCISO 2) I 
 
 public class DocenteDTO {
 

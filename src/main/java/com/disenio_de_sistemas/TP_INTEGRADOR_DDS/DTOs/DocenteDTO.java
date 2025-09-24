@@ -1,5 +1,7 @@
 package com.disenio_de_sistemas.TP_INTEGRADOR_DDS.DTOs;
 
+
+
 public class DocenteDTO {
 
     private int idDocente;
